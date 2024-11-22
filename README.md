@@ -44,7 +44,7 @@
 
 11.	Add updated readme file to commit on branch feature/test
     
-![8a](https://github.com/user-attachments/assets/3e9100db-245b-4b20-a11d-8a4319c3b062)
+![8b](https://github.com/user-attachments/assets/6d45db5e-ced8-444c-a428-5dbe44785eda)
 
 
 12.	Show changes history
