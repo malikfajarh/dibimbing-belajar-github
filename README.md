@@ -25,40 +25,48 @@
     
 ![6a](https://github.com/user-attachments/assets/2fdec10e-9b8a-477e-aba5-a9393ad5005c)
 
-![6b](https://github.com/user-attachments/assets/eb581cdf-9c23-42c0-9fde-4e9f2d80d224)
 
 7.	Display the state of the repository and staging area
 
 ![7a](https://github.com/user-attachments/assets/0d2c7ec3-66f5-4077-8f86-7dc74dc11fe6)
-![7b](https://github.com/user-attachments/assets/f10d8de7-4080-43f4-97aa-bfecb28382f3)
 
-8.	Add file to commit on branch feature/test
+8.	Add python file to commit on branch feature/test
     
 ![8a](https://github.com/user-attachments/assets/d070ff73-0f64-424e-a43e-45ff8529671e)
+
+9.	Add updated readme file to staging area
+    
+![6b](https://github.com/user-attachments/assets/eb581cdf-9c23-42c0-9fde-4e9f2d80d224)
+
+10.	Display the state of the repository and staging area
+
+![7b](https://github.com/user-attachments/assets/f10d8de7-4080-43f4-97aa-bfecb28382f3)
+
+11.	Add updated readme file to commit on branch feature/test
+    
 ![8a](https://github.com/user-attachments/assets/3e9100db-245b-4b20-a11d-8a4319c3b062)
 
-9.	Show changes history
+
+12.	Show changes history
     
 ![9](https://github.com/user-attachments/assets/de5b65d2-55da-4092-90c6-ea7d4c1e81af)
 
-10.	Send commit form local to remote repository
+13.	Send commit form local to remote repository
     
 ![10](https://github.com/user-attachments/assets/e377150c-0b3d-42e6-94da-e5ce69eb5d20)
 
-11.	Create pull request
+14.	Create pull request
 
 ![11](https://github.com/user-attachments/assets/f55eaec0-16da-4e4e-b991-a3193ee99ca0)
 
-12.	Merge pull request
+15.	Merge pull request
     
 ![12](https://github.com/user-attachments/assets/5a8ac403-ea7b-40e2-9d3b-2575b4192ede)
 
-13.	Go to main branch
+16.	Go to main branch
     
 ![13](https://github.com/user-attachments/assets/5145edae-3616-4380-9437-a1ae2f2f4790)
 
-14.	Get update from remote to local repository
+17.	Get update from remote to local repository
 
 ![14](https://github.com/user-attachments/assets/bde9201f-a480-4255-a48b-03725092bb5e)
-
-
